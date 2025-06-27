@@ -3,13 +3,13 @@
   "Author": "Hutao",
   "data": [
     {
-      "status": "sukses",
-      "nama": "Ikyy",
+      "Access": "true",
+      "Nama": "Ikyy",
       "ip": "152.42.214.189"
     },
     {
-      "status": "sukses",
-      "nama": "kenz",
+      "Access": "true",
+      "Nama": "kenz",
       "ip": "152.42.214.9"
     }
   ]
