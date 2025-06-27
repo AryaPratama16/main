@@ -3,5 +3,10 @@
   status: 'sukses',
   nama: 'Ikyy',
   ip: '152.42.214.189'
+},
+{
+  status: 'sukses',
+  nama: 'kenz',
+  ip: '152.42.214.189'
 }
 ]
