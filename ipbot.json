@@ -1,4 +1,7 @@
-[
+{
+status:"suskes ", 
+Author:"Hutao", 
+data: [
 {
   status: 'sukses',
   nama: 'Ikyy',
@@ -10,3 +13,4 @@
   ip: '152.42.214.189'
 }
 ]
+}
