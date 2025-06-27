@@ -1,14 +1,14 @@
 {
-  "Access": "true",
+  "Access": true,
   "Author": "Ikyy",
   "data": [
     {
-      "Access": "true",
+      "Access": false,
       "Nama": "Ikyy",
       "ip": "152.42.214.189"
     },
     {
-      "Access": "true",
+      "Access": true,
       "Nama": "kenz",
       "ip": "152.42.214.9"
     }
